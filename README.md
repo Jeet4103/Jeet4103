@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently  DevOps and doing DSA in python
+I'm currently Lerning DevOps and doing DSA in python
 
 
 ## 🌐 Socials:
